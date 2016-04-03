@@ -1,0 +1,142 @@
+@-moz-document domain("www.udemy.com") {
+
+  body {
+    background-color: #101010 !important;
+    color: #fff !important;
+  }
+
+  .my-courses .my-courses-header {
+    background-color: #333 !important;
+    color: #ccc;
+  }
+
+  .curriculum-navigation {
+    background-color: #333 !important;
+    color: #efefef !important;
+  }
+
+  .curriculum-navigation__section__title {
+    color: #efefef !important;
+  }
+
+  .course-taking .course-dashboard__bottom .bottom__nav {
+    background-color: #444 !important;
+  }
+
+  .course-taking .course-dashboard__bottom .curriculum-navigation {
+    border-bottom: 30px solid #333 !important;
+  }
+
+  .current-section,
+  .panel-heading,
+  .lecture__item__link {
+    background-color: #666 !important;
+    color: #efefef !important;
+  }
+  .lecture__resources {
+    background-color: #333 !important;
+  }
+  .lecture__item__link {
+    border-bottom: 1px solid #efefef !important;
+  }
+  .course-taking .curriculum-navigation .lecture__item.started .lecture__item__link__icon {
+    border-color: #17aa1c !important;
+  }
+  .course-taking .curriculum-navigation .lecture__item .ud_icon-play {
+    background: transparent !important;
+  }
+  .text-link-blue,
+  .btn-link,
+  .resources__link,
+  .resources__link a {
+    color: #17aa1c !important;
+  }
+
+  .ud_icon-play,
+  .course-taking .curriculum-navigation .lecture__item.completed .lecture__item__link__icon {
+    background: #17aa1c !important;
+    border-color: #17aa1c !important;
+  }
+
+  .dropdown-menu {
+    background-color: #333 !important;
+    color: #efefef !important;
+    border-right: 1px solid #eab1b1 !important;
+  }
+
+  .dropdown-menu a {
+    color: rgba(100, 177, 54, 0.6) !important;
+  }
+
+  .discovery-units,
+  .wrapper-left {
+    border-right: 1px solid #eab1b1 !important;
+    background-color: #0f0e0e !important;
+  }
+
+  a {
+    background-color: transparent !important;
+  }
+
+  .pager .btn.btn-default {
+    color: #ccc !important;
+    background-color: #0e600e !important;
+  }
+
+  .dashboard-v39,
+  .user-course-progress .progress {
+    background-color: #110e0b !important;
+  }
+
+  .main-middle {
+    background: #090606;
+    border-top: 1px solid #5c2b2b !important;
+  }
+
+  .one-col-landing {
+    background: #070b2a !important;
+  }
+
+  .also-viewed {
+    background: #090808 !important;
+  }
+
+  .section-title {
+    border-bottom: 1px solid #eab1b1;
+    background-color: #2a3347 !important;
+  }
+
+  .nav-tabs > li > a {
+    color: rgba(100, 177, 54, 0.6) !important;
+  }
+
+  .card {
+    box-shadow: 0 2px 2px #9f95a8;
+    background-color: #397d93 !important;
+  }
+
+  .course-box .mask {
+    color: #d2d5b5 !important;
+  }
+
+  .course-box .inst-name {
+    color: #7895ea !important;
+  }
+
+  .user-course-progress .progress {
+    background-color: #4e6078 !important;
+  }
+
+  .header-v4 {
+    background: #0f0e0e;
+  }
+
+  .channels.skin6 .channel-head {
+    background: #110f0f !important;
+  }
+
+  .featured-courses {
+    background: #000 !important;
+  }
+
+}
