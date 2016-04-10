@@ -20,3 +20,4 @@ Once I feel these are closer to *complete* I will probably post them there as we
 
   * :mortar_board: [Udemy — www.udemy.com](https://www.udemy.com)
   * :computer: [Free Code Camp — www.freecodecamp.com](https://www.freecodecamp.com)
+  * :newspaper: [Feedly — www.feedly.com](https://www.feedly.com)
